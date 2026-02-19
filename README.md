@@ -17,14 +17,6 @@
 
 ---
 
-<div>
-  <img
-    width="50%" align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbucalon&layout=compact&theme=dark"
-    alt="Linguagens mais usadas por Lucas Bucalon"
-  />
-</div>
-
 ### 🚀 Tecnologias & Ferramentas
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Figma-1e1e1e?style=for-the-badge&logo=&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=&logoColor=white" alt="Next.js" />
@@ -42,12 +34,12 @@
 
 ### 👨‍💻 Sobre mim
 
-- 💻 Desenvolvedor Front-end com foco na experiência do usuário e em sites responsivos
-- 🖌️ Web Designer, entusiasta de UX/UI, com domínio em ferramentas como Figma
-- 📢 Experiência com estratégias de Inbound Marketing e construção de identidade visual
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFIA
-- 🎯 Meu objetivo é me tornar um engenheiro de software especializado em aplicações web e PWAs
-- 🧠 Aprendendo todos os dias por meio de projetos próprios, acadêmicos e trabalhos como freelancer
+- 💻 Desenvolvedor Front-end, com foco em experiência do usuário, responsividade e acessibilidade
+- 🖌️ Web Designer e entusiasta de UX/UI, com domínio de ferramentas como Figma, Canva e Kittl
+- 📢 Experiência em estratégias de marketing digital, tráfego pago e identidade visual
+- 🎓 Estudante da área de tecnologia, com foco em e-commerce e identidade digital
+- 🎯 Meu objetivo, tornar-me um dos principais consultores do mercado visual digital, atendendo negócios e marcas pessoais
+- 🧠 Aprendizado contínuo por meio de projetos próprios, acadêmicos, trabalhos como freelancer e desafios profissionais
 
 ---
 
