@@ -1,6 +1,6 @@
 <!-- Contador de visualizações -->
 <img align="right"
-  src="https://komarev.com/ghpvc/?username=lucasbucalon&color=orange"
+  src="https://komarev.com/ghpvc/?username=jlucasbucalon&color=orange"
   alt="Visualizações"
 />
 
@@ -11,7 +11,7 @@
 <img
   align="center"
   width="100%"
-  src="https://raw.githubusercontent.com/gist/lucasbucalon/91dc7afcab43dad9f5340bd897e54b87/raw/7ced068fb9aded2ac3cfde08e295126fab0c4698/cardwork.svg"
+  src="https://raw.githubusercontent.com/gist/jlucasbucalon/91dc7afcab43dad9f5340bd897e54b87/raw/7ced068fb9aded2ac3cfde08e295126fab0c4698/cardwork.svg"
   alt="GitCard"
 />
 
@@ -27,7 +27,7 @@
 <img 
   align="right"
   width="15%" 
-  src="https://raw.githubusercontent.com/gist/lucasbucalon/b962586b3ff3000fe405d2004772dd8a/raw/a36e7debf9350e374a2b41b46ae2c69dfe186a71/astrogit.svg"
+  src="https://raw.githubusercontent.com/gist/jlucasbucalon/b962586b3ff3000fe405d2004772dd8a/raw/a36e7debf9350e374a2b41b46ae2c69dfe186a71/astrogit.svg"
   alt="astronauta"
 />
 
